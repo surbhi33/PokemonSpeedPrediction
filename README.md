@@ -20,4 +20,4 @@ fitted model to predict speed in future.
 
 # Data Overview
 Resource: Kaggle Dataset  <a> https://www.kaggle.com/datasets/kylekohnen/complete-pokemon-data-set </a>
-Dimensions: (1118, 49) [1118 rows and 49 columns]
+- Dimensions: (1118, 49) [1118 rows and 49 columns]
