@@ -14,7 +14,7 @@ From the Pokemon dataset, we want to understand :
 1. What are the relevant pokemon characteristics that can be influencing one of
 the parameters, speed (our target variable).
 2. Check for the relationship between speed and other attributes of the
-Pok mon. Check how many have linear relationships with speed.
+Pokemon. Check how many have linear relationships with speed.
 3. Quantify impact of chosen features on speed. Check accuracy of finalised
 fitted model to predict speed in future.
 
