@@ -19,5 +19,5 @@ Pok mon. Check how many have linear relationships with speed.
 fitted model to predict speed in future.
 
 # Data Overview
-Resource: Kaggle Dataset
+Resource: Kaggle Dataset  <a> href=https://www.kaggle.com/datasets/kylekohnen/complete-pokemon-data-set </a>
 Dimensions: (1118, 49) [1118 rows and 49 columns]
